@@ -36,7 +36,7 @@ Validate Password:
 1.Add a new session in SessionManager, linking the username to the generated token. This session will help manage the user's login state.
 
 5.Return Success Response:
-Return a response indicating successful login, along with the token, username, and the user's role. This information can be used by the client for authenticated requests.
+Return a response indicating successful login, along with the token, username, and the user's role. 
 
 3.Logout:
 
